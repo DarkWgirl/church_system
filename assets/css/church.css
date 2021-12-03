@@ -1,0 +1,58 @@
+        .my-form{
+          margin-bottom: 3%;
+          border: 1px solid #828281;
+        }
+            .my-form-modal{
+          margin: 1%;
+          border: 1px solid blue;
+          width: 98%;
+        }
+         .my-header{
+          margin: 3%;
+          opacity: 50%;
+        }
+           .my-header-white{
+        color: white;
+        }
+             .my-label{
+          margin-left: 3%;
+        }
+         .my-btn{
+          margin: 3%;
+        }
+          .my-btn > hover{
+          margin: 3%;
+        }
+        .my-navbar{
+           background-color: #112266;
+
+        }
+        .my-footer{
+     background-color: #112266;
+     color: white;
+        }
+        .my-navbar-item{
+          color: white;
+        }
+           .my-navbar-item:hover{
+          color: #85baff;
+        }
+        .my-table-thead{
+          background-color: #1f6d87;
+          color: white;
+        }
+          .my-schedule-label{
+          font-size: 12px;
+          font-style: italic;
+          opacity: 70%;
+        }
+        body{
+          background: linear-gradient(120deg, #1f6d87, #732264, #11702d);
+         
+        }
+        table{
+          background-color: white;
+        }
+        .customer-link{
+          color: white;
+        }
